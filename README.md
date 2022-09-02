@@ -2,11 +2,15 @@ This code was put together using
   NodeJS v14.20.0
   npm v6.14.17
 
-To install the necessary packages to run the program use the following command
+Running the code in windows
 
-`npm install`
+open command prompt where the program is dropped and run the following command:
 
-To run the code use the following command from within the project directory:
+`C:\path\to\executable>getAirlineData.exe <number>`
 
-`npm start` 
+Development:
+
+`npm install` to install the packages necessary to develop this program
+`npm start` will run the code natively using node
+`npm run build` will package the project into an executable file under the `dist/` directory
 
