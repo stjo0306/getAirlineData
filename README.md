@@ -11,6 +11,6 @@ open command prompt where the program is dropped and run the following command:
 Development:
 
 `npm install` to install the packages necessary to develop this program
-`npm start` will run the code natively using node
+`npm start` to run the code
 `npm run build:all` will package the project into an executable file under the `dist/` directory
 
